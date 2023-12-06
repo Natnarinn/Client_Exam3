@@ -103,6 +103,7 @@ const y = [2, 7]
 console.log(arrayAdd1(x, y)) //15
 
 console.log("--------------")
+
 //student tracking
 const students = [
   {
